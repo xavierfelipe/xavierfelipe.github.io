@@ -1,5 +1,5 @@
-# Felipe Xavier
-**Data Scientist | AI Solutions Architect**
+# Felipe M. Xavier
+**Data Scientist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xavierfelipe)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipemathxavier@gmail.com)
@@ -8,7 +8,7 @@
 
 ## Summary
 
-8+ years in technology as Software Engineer, Architect, and Data Scientist. Expert in multi-agent systems with LangChain/LangGraph, delivering 50% operational efficiency gains. Specialist in production LLMs, RAG architectures, and autonomous agents. Strong background in distributed systems, cloud infrastructure (AWS/Azure), and end-to-end ML pipelines. Proven track record architecting solutions for 10M+ users.
+8+ years in technology as Software Engineer, and Data Scientist. Expert in multi-agent systems with LangChain/LangGraph, delivering 50% operational efficiency gains. Specialist in production LLMs, RAG architectures, and autonomous agents. Strong background in distributed systems, cloud infrastructure (AWS/Azure), and end-to-end ML pipelines. Proven track record architecting solutions for 100M+ users.
 
 ---
 
