@@ -15,7 +15,7 @@
 ## Core Competencies
 
 ### AI & Machine Learning
-`LangChain` `LangGraph` `Multi-Agent Systems` `RAG` `Chain-of-Thought` `ReAct` `FLARE`  
+`LangChain` `LangGraph` `Multi-Agent Systems` `RAG` `Chain-of-Thought` `ReAct`  
 `Prompt Engineering` `Vector Databases (Weaviate)` `Semantic Search` `RLHF`
 
 ### Machine Learning Engineering  
@@ -45,19 +45,16 @@ Led critical transformation in high-complexity system through autonomous multi-a
 - **Implemented** production RAG pipeline with Chain-of-Thought reasoning and multi-hop refinement
 - **Designed** recursive ReAct loops with self-reflection and meta-reasoning for automatic trajectory correction
 - **Deployed** on Azure Kubernetes Service with auto-scaling, rolling deployments, and complete observability
-- **Created** FLARE (Forward-Looking Active Retrieval) implementation for predictive information needs
 
 **Technical Implementation:**
 - Episodic and semantic memory via Weaviate with hybrid search (dense + sparse retrieval)
-- Multi-layer semantic caching with intelligent invalidation based on drift detection
 - Graph-based knowledge integration feeding dynamic knowledge graphs
-- Complete ML pipeline: stratified cross-validation, Bayesian hyperparameter optimization
 
-*Technologies: LangChain, LangGraph, Python, Weaviate, Azure AKS, Redis, PostgreSQL*
+*Technologies: LangChain, LangGraph, Python, Weaviate, Azure AKS, Redis, SQL, PostgreSQL*
 
 ---
 
-### **Senior Architect** | Accenture
+### **Senior Software Engineer** | Accenture
 *September 2021 - June 2024 | Brazil*
 
 Led architecture for Latin America's largest telecom company serving **10M+ active users**. Focused on architectural remodeling, system integrations, performance improvements, and security enhancements.
@@ -75,7 +72,7 @@ Led architecture for Latin America's largest telecom company serving **10M+ acti
 - Process optimization increasing operational efficiency and client satisfaction
 - Effective client communication and negotiation for tailored technical solutions
 
-*Technologies: Python, Node.js, AWS, Azure, Microservices, PostgreSQL*
+*Technologies: Python, Node.js, AWS, Microservices*
 
 ---
 
@@ -107,7 +104,7 @@ Delivered enterprise solutions for global supply chain and fiscal compliance. Wo
 - **Contributed** to architecture team driving technological innovation
 - **Delivered** customized solutions for global supply chain challenges
 
-*Technologies: Java, C# .NET Core, Azure, PostgreSQL*
+*Technologies: Java, Azure*
 
 ---
 
